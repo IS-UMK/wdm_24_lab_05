@@ -2,8 +2,8 @@
 
 Zapoznaj się z zawartością notatnika Jupyter umieszczonego w repozytorium  i wykonaj zawarte w nim ćwiczenia.
 
-Notatnik: [05_regresja.ipynb](https://github.com/IS-UMK/wdm_23_lab_05/blob/master/05_regresja.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/wdm_23_lab_05/blob/master/05_regresja.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/wdm_23_lab_05/master?filepath=05_regresja.ipynb)
+Notatnik: [05_regresja.ipynb](https://github.com/IS-UMK/wdm_24_lab_05/blob/master/05_regresja.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/wdm_24_lab_05/blob/master/05_regresja.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/wdm_24_lab_05/master?filepath=05_regresja.ipynb)
 
 ---
 
